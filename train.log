@@ -1,0 +1,2 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): s3.amazonaws.com:443
+DEBUG:urllib3.connectionpool:https://s3.amazonaws.com:443 "HEAD /models.huggingface.co/Wondersoft_Classification/chinese_wwm_pytorch/bert_config.json/config.json HTTP/1.1" 404 0
